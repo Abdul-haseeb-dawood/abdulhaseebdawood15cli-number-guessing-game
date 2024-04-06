@@ -1,2 +1,2 @@
-# abdulhaseebdawood15cli-number-guessing-game
-This is a cli-number-guessing-game
+# cli-number-guessing-game
+This is cli based numbers guessing game
