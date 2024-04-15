@@ -4,7 +4,7 @@ This is cli based numbers guessing game
 <h1 align="center">Hi 👋, I'm abdulhaseeb</h1>
 <h3 align="center">A passionate developer from pakistan</h3>
 
-<p align="left"> <img width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxvdQVvL70fT0vEh9vAce8i23afZOeFjA-x7yQ9y9ytQ&s" alt="abdul-haseeb-dawood" /> </p>
+<p align="right"> <img width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxvdQVvL70fT0vEh9vAce8i23afZOeFjA-x7yQ9y9ytQ&s" alt="abdul-haseeb-dawood" /> </p>
 
 - 🔭 I’m currently working on **100 days of coding**
 
